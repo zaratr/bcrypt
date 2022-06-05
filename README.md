@@ -14,6 +14,7 @@
 ## Resources
 - [Application properties](lib/src/main/resources/application.properties)
 - [JBCRYPT - Website](https://www.mindrot.org/projects/jBCrypt/)
+- [seattle-code-java-401d14](https://github.com/codefellows/seattle-code-java-401d14)
 ****
 ### Feature Tasks - start a app
 - Create a database.
